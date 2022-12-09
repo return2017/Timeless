@@ -1,5 +1,5 @@
 ## Currently in English
-### 多语言支持：简体中文
+### 多语言支持：[简体中文](https://github.com/return2017/Timeless-themes#%E5%BD%93%E5%89%8D%E4%B8%BA%E4%B8%AD%E6%96%87 "简体中文")
 
 
 # Timeless theme
