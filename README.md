@@ -1,3 +1,5 @@
+###Multilingual support:English
+当前为简体中文语言
 # Timeless主题
 [![Logo](https://s3.uuu.ovh/imgs/2022/12/08/bb62af770ed5336e.png "Logo")](https://s3.uuu.ovh/imgs/2022/12/08/bb62af770ed5336e.png "Logo")
 
