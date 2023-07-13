@@ -17,4 +17,4 @@
 ------------
 
 
-**Theme motto: Write what you think here, post it on the blog, be blocked, be viewed by others**
+**Theme motto: Write what you're thinking here, post it on your blog, be documented and viewed by others.**
